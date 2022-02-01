@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PD10
-- 👀 I’m interested in Java Full Stack roles with ReactJS.
-- 🌱 I’m currently learning Java, ReactJS and other techs.
+- 👀 I’m interested in Salesforce Developer roles.
+- 🌱 I’m currently learning Salesforce and other techs.
 - 💞️ I’m looking to collaborate on good open source and interesting projects.
 - 📫 How to reach me: pritishdas01@gmail.com, https://in.linkedin.com/in/pritishdas 
 
