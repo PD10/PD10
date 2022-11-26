@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PD10
-- 👀 I’m interested in Java, ReactJS and Salesforce Developer roles.
-- 🌱 I’m currently learning Salesforce and other techs like Java and ReactJS.
+- 👀 I’m interested in Application Development and SRE/DevOps roles.
+- 🌱 I’m currently learning Terraform and other techs like Java, ReactJS and Python.
 - 💞️ I’m looking to collaborate on good open source and interesting projects.
 - 📫 How to reach me: pritishdas01@gmail.com, https://in.linkedin.com/in/pritishdas 
 
